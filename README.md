@@ -44,7 +44,7 @@ Interactive resume chatbot that allows recruiters and visitors to query professi
 ### 🏥 [therapy-pathways](https://github.com/farealahmed/therapy-pathways)
 Professional static website for NS Sunshine Psychology, a psychotherapy practice. Built with modern React architecture for optimal performance and user experience. Currently deployed and serving real clients.
 
-Tech Stack: React, TypeScript
+Tech Stack: React, TypeScript  
 Live Site: nssunshinepsychology.com
 
 ---
