@@ -63,30 +63,6 @@ I'm actively seeking **Full-Stack or Backend Engineer** positions where I can:
 
 ---
 
-
-## Technical Expertise
-
-**Backend Development**
-- Languages: Java, Kotlin, Node.js, TypeScript
-- Frameworks: Spring Boot, Express.js
-- Architecture: RESTful APIs, Microservices
-
-**Frontend Development**
-- Frameworks: React, TypeScript
-- UI/UX: Responsive Design, Component Architecture
-
-**Data & AI/ML**
-- Databases: PostgreSQL, pgvector (Vector DB)
-- AI Integration: LangChain4j, RAG Applications, LLM Integration
-- Data Modeling: Relational & Vector Databases
-
-**DevOps & Tools**
-- CI/CD: GitHub Actions
-- Version Control: Git, GitHub
-- Development: Docker, REST APIs
-
----
-
 ## Let's Connect
 
 I'm always interested in discussing new opportunities, collaborating on projects, or talking about technology.
