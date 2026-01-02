@@ -1,19 +1,12 @@
 # Fareal Ahmed
 
-**Full-Stack Software Engineer** | Melbourne, Australia | **Actively Seeking Opportunities**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fareal)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farealahmed@gmail.com)
+**Full-Stack Software Engineer** | Melbourne, Australia**
 
 ---
 
 ## About Me
 
-Mid-level Software Engineer with **3+ years of experience** building scalable full-stack applications. Experienced in designing and implementing end-to-end solutions using modern frameworks, microservices architecture, and cloud technologies. Currently seeking new opportunities to contribute to innovative teams and challenging projects.
-
-**Location:** Melbourne, Australia
-**Availability:** Immediate
-**Work Authorization:** [Update if relevant - e.g., "Australian PR" or "Work Visa"]
+Mid-level Software Engineer with **3+ years of experience** building scalable full-stack applications. Experienced in designing and implementing end-to-end solutions using modern frameworks, microservices architecture, and cloud technologies.
 
 ---
 
@@ -22,12 +15,11 @@ Mid-level Software Engineer with **3+ years of experience** building scalable fu
 **Backend Development**
 - Languages: Java, Kotlin, Node.js, TypeScript
 - Frameworks: Spring Boot, Express.js
-- Architecture: RESTful APIs, Microservices, MVC
+- Architecture: RESTful APIs, Microservices
 
 **Frontend Development**
 - Frameworks: React, TypeScript
 - UI/UX: Responsive Design, Component Architecture
-- State Management: Redux, Context API
 
 **Data & AI/ML**
 - Databases: PostgreSQL, pgvector (Vector DB)
@@ -60,14 +52,15 @@ Full-featured video streaming platform with secure upload, storage, and playback
 ### 💼 [resume-chat-companion](https://github.com/farealahmed/resume-chat-companion)
 Interactive resume chatbot that allows recruiters and visitors to query professional experience using natural language processing.
 
-**Tech Stack:** Node.js, LLM Integration, React
+**Tech Stack:** Java, LLM Integration, React
 
 ---
 
 ### 🏥 [therapy-pathways](https://github.com/farealahmed/therapy-pathways)
-Healthcare application for managing therapy sessions and patient pathways. Focus on clean architecture and HIPAA-compliant data handling.
+Professional static website for NS Sunshine Psychology, a psychotherapy practice. Built with modern React architecture for optimal performance and user experience. Currently deployed and serving real clients.
 
-**Tech Stack:** Java, Spring Boot, PostgreSQL
+Tech Stack: React, TypeScript
+Live Site: nssunshinepsychology.com
 
 ---
 
@@ -80,7 +73,7 @@ I'm actively seeking **Full-Stack or Backend Engineer** positions where I can:
 - Collaborate with talented engineering teams
 - Solve complex technical challenges
 
-**Open to:** Full-time roles, contract positions, remote or hybrid opportunities in Melbourne
+**Open to:** Full-time roles, remote or hybrid opportunities in Melbourne
 
 ---
 
@@ -89,7 +82,6 @@ I'm actively seeking **Full-Stack or Backend Engineer** positions where I can:
 - Deepening expertise in distributed systems and microservices architecture
 - Building production-ready AI applications with RAG and vector databases
 - Exploring advanced React patterns and state management solutions
-- Contributing to open-source projects
 
 ---
 
@@ -105,9 +97,8 @@ I'm actively seeking **Full-Stack or Backend Engineer** positions where I can:
 
 I'm always interested in discussing new opportunities, collaborating on projects, or talking about technology.
 
-📧 **Email:** [farealahmed@gmail.com](mailto:farealahmed@gmail.com)
-💼 **LinkedIn:** [linkedin.com/in/fareal](https://linkedin.com/in/fareal)
-🐙 **GitHub:** [@farealahmed](https://github.com/farealahmed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fareal)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farealahmed@gmail.com)
 
 ---
 
