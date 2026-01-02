@@ -1,4 +1,4 @@
-# Hi there 👋 This is Fareal
+# Hi there 👋  This is Fareal
 
 **Full-Stack Software Engineer** | Melbourne, Australia
 
@@ -10,26 +10,11 @@ Mid-level Software Engineer with **3+ years of experience** building scalable fu
 
 ---
 
-## Technical Expertise
+## Current Focus
 
-**Backend Development**
-- Languages: Java, Kotlin, Node.js, TypeScript
-- Frameworks: Spring Boot, Express.js
-- Architecture: RESTful APIs, Microservices
-
-**Frontend Development**
-- Frameworks: React, TypeScript
-- UI/UX: Responsive Design, Component Architecture
-
-**Data & AI/ML**
-- Databases: PostgreSQL, pgvector (Vector DB)
-- AI Integration: LangChain4j, RAG Applications, LLM Integration
-- Data Modeling: Relational & Vector Databases
-
-**DevOps & Tools**
-- CI/CD: GitHub Actions
-- Version Control: Git, GitHub
-- Development: Docker, REST APIs
+- Deepening expertise in distributed systems and microservices architecture
+- Building production-ready AI applications with RAG and vector databases
+- Exploring advanced React patterns and state management solutions
 
 ---
 
@@ -77,19 +62,27 @@ I'm actively seeking **Full-Stack or Backend Engineer** positions where I can:
 
 ---
 
-## Current Focus
 
-- Deepening expertise in distributed systems and microservices architecture
-- Building production-ready AI applications with RAG and vector databases
-- Exploring advanced React patterns and state management solutions
+## Technical Expertise
 
----
+**Backend Development**
+- Languages: Java, Kotlin, Node.js, TypeScript
+- Frameworks: Spring Boot, Express.js
+- Architecture: RESTful APIs, Microservices
 
-## GitHub Stats
+**Frontend Development**
+- Frameworks: React, TypeScript
+- UI/UX: Responsive Design, Component Architecture
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=farealahmed&show_icons=true&theme=default&hide_border=true&count_private=true)
+**Data & AI/ML**
+- Databases: PostgreSQL, pgvector (Vector DB)
+- AI Integration: LangChain4j, RAG Applications, LLM Integration
+- Data Modeling: Relational & Vector Databases
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farealahmed&layout=compact&theme=default&hide_border=true)
+**DevOps & Tools**
+- CI/CD: GitHub Actions
+- Version Control: Git, GitHub
+- Development: Docker, REST APIs
 
 ---
 
