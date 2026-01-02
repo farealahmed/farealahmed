@@ -12,9 +12,10 @@ Mid-level Software Engineer with **3+ years of experience** building scalable fu
 
 ## Current Focus
 
-- Deepening expertise in distributed systems and microservices architecture
-- Building production-ready AI applications with RAG and vector databases
-- Exploring advanced React patterns and state management solutions
+- Building AI-powered applications with RAG architecture and vector databases
+- Developing scalable video streaming platforms with secure upload and playback capabilities
+- Creating interactive LLM-powered chatbots for enhanced user experiences
+- Integrating modern AI/ML capabilities into full-stack applications
 
 ---
 
