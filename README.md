@@ -95,8 +95,6 @@ I'm always interested in discussing new opportunities, collaborating on projects
 
 ---
 
-*Last Updated: January 2026*
-
 
 
 <!---
