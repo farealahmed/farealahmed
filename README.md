@@ -1,6 +1,6 @@
 # Hi there 👋  This is Fareal
 
-**Full-Stack Software Engineer** | Melbourne, Australia
+**Full-Stack Software Engineer**
 
 ---
 
