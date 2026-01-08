@@ -63,12 +63,19 @@ I'm actively seeking **Full-Stack or Backend Engineer** positions where I can:
 
 ---
 
+## Resume
+
+You can see and download the pdf copy of my latest resume from below (I removed my phone number though) 👇  
+[Github view](https://github.com/farealahmed/farealahmed/blob/main/Fareal_Ahmed_Resume.pdf)
+
+---
+
 ## Let's Connect
 
 I'm always interested in discussing new opportunities, collaborating on projects, or talking about technology.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fareal)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farealahmed@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farealahmed@gmail.com)  
 
 ---
 
