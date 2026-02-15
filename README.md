@@ -6,7 +6,7 @@
 
 ## About Me
 
-Mid-level Software Engineer with **3+ years of experience** building scalable full-stack applications. Experienced in developing end-to-end solutions using modern frameworks, microservices architecture, and cloud technologies.
+Software Engineer with **3+ years of experience** building scalable full-stack applications. Experienced in developing end-to-end solutions using modern frameworks, microservices architecture, and cloud technologies.
 
 ---
 
