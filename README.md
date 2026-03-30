@@ -12,14 +12,22 @@ Software Engineer with **3+ years of experience** building scalable full-stack a
 
 ## Current Focus
 
+- **Building [TrolleyToday](https://trolleytoday.com)** — a live grocery price comparison app helping Australian shoppers save money across Woolworths, Coles, IGA, Aldi, and specialty stores. Actively developing real-time data pipeline and new features. [Repo](https://github.com/farealahmed/trolley-today)
 - Building AI-powered applications with RAG architecture and vector databases
 - Developing scalable video streaming platforms with secure upload and playback capabilities
-- Creating interactive LLM-powered chatbots for enhanced user experiences
 - Integrating modern AI/ML capabilities into full-stack applications
-
 ---
 
 ## Featured Projects
+
+### 🛒 [TrolleyToday](https://github.com/farealahmed/trolley-today)
+
+Grocery price comparison app for Australian shoppers. Compare prices across Woolworths, Coles, IGA, Aldi, halal butchers, and Asian grocers. Build optimised shopping lists, export to PDF. Deployed on Digital Ocean with Nginx, SSL, Sentry monitoring, Umami analytics, and 56 automated tests. Actively under development.
+
+**Tech Stack:** Next.js 14, TypeScript, SQLite, Tailwind CSS, Zustand, jsPDF, Jest
+**Live:** [trolleytoday.com](https://trolleytoday.com)
+
+---
 
 ### 🤖 [doc-whisperer](https://github.com/farealahmed/doc-whisperer)
 AI-powered document assistant leveraging RAG (Retrieval-Augmented Generation) architecture. Built with LangChain4j and pgvector for intelligent document querying and analysis.
