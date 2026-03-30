@@ -66,7 +66,7 @@ I'm actively seeking **Full-Stack or Backend Engineer** positions where I can:
 ## Resume
 
 You can see and download the pdf copy of my latest resume from below (I removed my phone number though) 👇  
-[Github view](https://github.com/farealahmed/farealahmed/blob/main/Fareal_Ahmed_Resume.pdf)
+[Github view](https://github.com/farealahmed/farealahmed/blob/main/Fareal_Ahmed_Resume_Github.pdf)
 
 ---
 
