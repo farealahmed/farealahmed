@@ -22,7 +22,7 @@ Software Engineer with **3+ years of experience** building scalable full-stack a
 
 ### 🛒 [trolley-today]
 
-Grocery price comparison app for Australian shoppers. Compare prices across Woolworths, Coles, IGA, Aldi, halal butchers, and Asian grocers. Build optimised shopping lists, export to PDF. Deployed on Digital Ocean with Nginx, SSL, Sentry monitoring, Umami analytics, and 56 automated tests. Actively under development.
+Grocery price comparison app for Australian shoppers. Compare prices across Woolworths, Coles, IGA, Aldi, halal butchers, and Asian grocers. Build optimised shopping lists, export to PDF. Deployed on Digital Ocean with Nginx, SSL, Sentry monitoring, Umami analytics, and 65 automated tests. Actively under development.
 
 **Tech Stack:** Next.js 14, TypeScript, PostgreSQL, Tailwind CSS, Zustand, jsPDF, Jest
 
