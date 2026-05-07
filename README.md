@@ -20,7 +20,7 @@ Software Engineer with **3+ years of experience** building scalable full-stack a
 
 ## Featured Projects
 
-### 🛒 [trolley-today]
+### 🛒 [trolley-today](https://github.com/farealahmed/trolley-today-V2)
 
 Grocery price comparison app for Australian shoppers. Compare prices across Woolworths, Coles, IGA, Aldi, halal butchers, and Asian grocers. Build optimised shopping lists, export to PDF. Deployed on Digital Ocean with Nginx, SSL, Sentry monitoring, Umami analytics, and 65 automated tests. Actively under development.
 
