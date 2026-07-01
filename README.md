@@ -12,7 +12,8 @@ Software Engineer with **3+ years of experience** building scalable full-stack a
 
 ## Current Focus
 
-- **Building [trolley-today](https://trolleytoday.com)** — a live grocery price comparison app helping Australian shoppers save money across Woolworths, Coles and Aldi. Actively developing real-time data pipeline and new features.
+- **Built [trolley-today](https://trolleytoday.com)** — a live grocery price comparison app helping Australian shoppers save money across Woolworths, Coles and Aldi and 4 more shops. Developed real-time data pipeline.
+- **Built and deployed a LMS[LearnEasy](https://courses.farealahmed.com)** - Demo Student and instructor version added to see the works done here.
 - Building AI-powered applications with RAG architecture and vector databases
 - Developed scalable video streaming platforms with secure upload and playback capabilities
 - Integrating modern AI/ML capabilities into full-stack applications
